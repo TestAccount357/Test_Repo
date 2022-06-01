@@ -1,0 +1,23 @@
+{
+  "name": "test_repo",
+  "version": "1.0.0",
+  "description": "This is just a test repository used for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TestAccount357/Test_Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TestAccount357/Test_Repo/issues"
+  },
+  "homepage": "https://github.com/TestAccount357/Test_Repo#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
