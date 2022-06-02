@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/TestAccount357/Test_Repo#readme",
   "dependencies": {
-    "axios": "^0.23.0"
+    "axios": "^0.25.0"
   }
 }
